@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(144, 144, 255);
+}
+
+.pDiferente
+{
+    color: red;
+}
+.pKy{
+    color: red;
+}
+.colorRGB{
+    color: rgb(255, 244, 42);
+}
+
+.divRGBA{
+
+    width: 90%;
+    background-color: rgba(red, green, blue, alpha)
+
+}
